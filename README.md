@@ -1,10 +1,10 @@
 ## Deskripsi Project
 Project ini bertujuan untuk membangun dan mengevaluasi model machine learning yang mampu mengidentifikasi transaksi penipuan (fraud) pada kartu kredit. Dengan dataset yang sangat tidak seimbang (hanya sekitar 0.58% transaksi adalah fraud), project ini fokus pada rekayasa fitur (feature engineering) yang mendalam dan penggunaan model klasifikasi yang efektif untuk memaksimalkan akurasi dan metrik penting lainnya seperti *recall* dan *precision*.
 
-## Akses Dataset
-
-
 Model yang digunakan adalah **Logistic Regression** sebagai _baseline_ dan **Random Forest** sebagai model yang lebih kompleks untuk perbandingan performa.
+
+## Akses Dataset
+https://drive.google.com/file/d/1yj5Pq3mBsbLXuuwJgaqwfA4IETaQ535e/view
 
 ## Analisis dan Rekayasa Fitur (Feature Engineering)
 Analisis data eksplorasi (EDA) dan rekayasa fitur adalah inti dari project ini untuk menghasilkan variabel prediktor yang kuat. Beberapa fitur kunci yang dibuat antara lain:
